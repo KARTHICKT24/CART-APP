@@ -185,4 +185,4 @@ const App = () => {
 export default App;
 ```
 # OUTPUT :
-![WhatsApp Image 2025-10-18 at 10 47 53_6277d4a3](https://github.com/user-attachments/assets/d85a6a95-811a-466d-a16a-d21f29ce941e)
+![WhatsApp Image 2025-10-18 at 12 07 42_76ba6eb8](https://github.com/user-attachments/assets/1657b33b-0f94-45c6-9164-f564b7b58b7e)
